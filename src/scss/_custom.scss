@@ -1,2 +1,15 @@
+//Reescribimos variables de boostrap
+$rojo: #F34F51;
+$verde: #0098AE;
+$oscuro: #212121;
+
+//Asignamos paleta de colores a boostrap
+$secondary: $verde;
+$primary: $rojo;
+$dark: $oscuro;
+
+//CAMBIOS EN LA TIPOGRAFIA
+$display-font-weight: 900;
+
 // Importar Bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
